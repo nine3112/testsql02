@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySQLApplication</string>
+    <string name="main_text">Todo List</string>
+    <string name="main_menu_add_new">Add New</string>
+    <string name="Add_New_Task">Add New Task</string>
+    <string name="Enter_New_Task">Enter New Task</string>
+</resources>
